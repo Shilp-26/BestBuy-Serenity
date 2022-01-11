@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CRUD test","This will create new store","FAILURE","2022-01-09T12:15:22.998Z[Europe/London]","0.0","0.25"
+"Stores CRUD test","Update store information and verify the updated information","FAILURE","2022-01-09T12:15:23.411Z[Europe/London]","0.0","0.15"

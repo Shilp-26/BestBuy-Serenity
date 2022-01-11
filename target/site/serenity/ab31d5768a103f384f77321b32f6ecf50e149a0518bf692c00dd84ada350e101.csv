@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories CRUD test","This will create a new category","SUCCESS","2022-01-09T12:14:52.547Z[Europe/London]","0.0","14.17"
+"Categories CRUD test","Verify if the category was created","SUCCESS","2022-01-09T12:15:06.854Z[Europe/London]","0.0","2.98"
+"Categories CRUD test","Update the category information and verify the updated information","SUCCESS","2022-01-09T12:15:09.856Z[Europe/London]","0.0","0.5"
+"Categories CRUD test","Delete the category and verify if the category is deleted!","SUCCESS","2022-01-09T12:15:10.366Z[Europe/London]","0.0","0.57"

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CRUD test","Verify if the store was created in application","SUCCESS","2022-01-09T12:15:23.274Z[Europe/London]","0.0","0.13"
+"Stores CRUD test","Delete store and verify if the product is deleted","SUCCESS","2022-01-09T12:15:23.571Z[Europe/London]","0.0","0.27"
